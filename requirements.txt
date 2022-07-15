@@ -4,3 +4,4 @@ matplotlib
 seaborn
 gym[classic_control]
 notebook
+tqdm
